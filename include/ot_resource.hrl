@@ -11,6 +11,8 @@
 -define(SERVICE_NAMESPACE, "service.namespace").
 %% The version string of the service API or implementation.
 -define(SERVICE_VERSION, "service.version").
+%% Elastic APM Extension
+-define(SERVICE_ENVIRONMENT, "service.environment").
 
 %% Library attributes
 
